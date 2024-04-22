@@ -16,3 +16,11 @@ M. Forbes, W.S.P Robertson, A.C. Zander, J.J.H. Paulides, "The Magnetic Field fr
 
 If you use this work please cite the paper above.
 
+## Mathematica files
+
+The contributed files are straightforward:
+
+* [Nomenclature.wl](https://github.com/AUMAG/mag-cyl-field/blob/main/Nomenclature.wl)
+* [Analytic solutions with numeric comparison.nb](https://github.com/AUMAG/mag-cyl-field/blob/main/Analytic%20solutions%20with%20numeric%20comparison.nb)
+
+There is a typeset PDF version of the latter notebook, but please note that the code is truncated at the page edge so it is intended purely for illustrative purposes.
