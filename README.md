@@ -1,6 +1,8 @@
 # Magnetic field calculations of cylindrical arc magnets and coils
 
+<div style="background-color:white;">
 ![Graphical abstract](https://github.com/AUMAG/mag-cyl-field/blob/main/doc/graphical-abstract.svg)
+</div>
 
 ## Citation
 
