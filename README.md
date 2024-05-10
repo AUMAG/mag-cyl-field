@@ -2,11 +2,18 @@
 
 <img style="background-color:white;" src=https://github.com/AUMAG/mag-cyl-field/blob/main/doc/graphical-abstract.svg />
 
+## Manuscript
+
+This repository contains the preprint manuscript and the results of the derivations presented in the following paper ([10.1002/apxr.202300136](https://doi.org/10.1002/apxr.202300136)):
+
+> M. Forbes, W.S.P Robertson, A.C. Zander, J.J.H. Paulides, "The Magnetic Field from Cylindrical Arc Coils and Magnets: A Compendium with New Analytic Solutions for Radial Magnetisation and Azimuthal Current"
+
+A [preprint PDF version]([https://github.com/AUMAG/mag-cyl-field/blob/main/mag-cyl-field-Forbes-manuscript-2024.pdf) of the manuscript is provided in this repository.
+
+
 ## Citation
 
-This repository contains the results of the derivations presented in the following paper ([10.1002/apxr.202300136](https://doi.org/10.1002/apxr.202300136)):
-
-M. Forbes, W.S.P Robertson, A.C. Zander, J.J.H. Paulides, "The Magnetic Field from Cylindrical Arc Coils and Magnets: A Compendium with New Analytic Solutions for Radial Magnetisation and Azimuthal Current"
+If you use this work, please cite the paper using the following reference:
 
     @Article {Forbes2024,
         author = {Forbes, M. and Robertson, W.S.P. and Zander, A.C. and Paulides, J.J.H},
@@ -16,11 +23,11 @@ M. Forbes, W.S.P Robertson, A.C. Zander, J.J.H. Paulides, "The Magnetic Field fr
         publisher = {Wiley},
     }
 
-If you use this work please cite the paper above.
 
 ## Mathematica files
 
-The contributed files are straightforward:
+While the typeset version of the paper presents the derivations and final solutions,
+these are likely to be more accessible for re-use in the following Mathematica documents:
 
 * [Nomenclature.wl](https://github.com/AUMAG/mag-cyl-field/blob/main/Nomenclature.wl)
 * [Analytic solutions with numeric comparison.nb](https://github.com/AUMAG/mag-cyl-field/blob/main/Analytic%20solutions%20with%20numeric%20comparison.nb)
