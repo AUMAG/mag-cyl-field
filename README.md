@@ -8,7 +8,7 @@ This repository contains the preprint manuscript and the results of the derivati
 
 > M. Forbes, W.S.P Robertson, A.C. Zander, J.J.H. Paulides, "The Magnetic Field from Cylindrical Arc Coils and Magnets: A Compendium with New Analytic Solutions for Radial Magnetisation and Azimuthal Current"
 
-A [preprint PDF version]([https://github.com/AUMAG/mag-cyl-field/blob/main/mag-cyl-field-Forbes-manuscript-2024.pdf) of the manuscript is provided in this repository.
+A [preprint PDF version](https://github.com/AUMAG/mag-cyl-field/blob/main/mag-cyl-field-Forbes-manuscript-2024.pdf) of the manuscript is provided in this repository.
 
 
 ## Citation
