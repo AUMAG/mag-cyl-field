@@ -36,5 +36,5 @@ these are likely to be more accessible for re-use in the following Mathematica d
 
 There is a typeset PDF version of the latter notebook, but please note that the code is truncated at the page edge so it is intended purely for illustrative purposes.
 
-The supplementary material was updated to include geometry and field visualisations following an invitation to share the Mathematica notebook on the Wolfram community (https://community.wolfram.com/groups/-/m/t/3222778):  
-* [The Magnetic Field from Cylindrical Arc Coils and Magnets.nb](https://github.com/matt4bs/mag-cyl-field/blob/56f40633b3a6f32cd2976991ed63f2b000e11b34/The%20Magnetic%20Field%20from%20Cylindrical%20Arc%20Coils%20and%20Magnets.nb))
+The original supplementary material was updated to include geometry and field visualisations, following an invitation to share the Mathematica notebook on the Wolfram community (https://community.wolfram.com/groups/-/m/t/3222778):  
+* [The Magnetic Field from Cylindrical Arc Coils and Magnets.nb](https://github.com/matt4bs/mag-cyl-field/blob/56f40633b3a6f32cd2976991ed63f2b000e11b34/The%20Magnetic%20Field%20from%20Cylindrical%20Arc%20Coils%20and%20Magnets.nb)
