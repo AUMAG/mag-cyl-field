@@ -9,7 +9,7 @@ Basic wrapper functions for the analytic solutions are provided to tabulate resu
 
 This repository contains the preprint manuscript and the results of the derivations presented in the following paper ([10.1002/apxr.202300136](https://doi.org/10.1002/apxr.202300136)):
 
-> M. Forbes, W.S.P Robertson, A.C. Zander, J.J.H. Paulides, "The Magnetic Field from Cylindrical Arc Coils and Magnets: A Compendium with New Analytic Solutions for Radial Magnetisation and Azimuthal Current"
+> M. Forbes, W.S.P Robertson, A.C. Zander, J.J.H. Paulides (2024) "The Magnetic Field from Cylindrical Arc Coils and Magnets: A Compendium with New Analytic Solutions for Radial Magnetisation and Azimuthal Current" *Advanced Physics Research* vol. 3, no. 7, p. 2300136.
 
 A [preprint PDF version](https://github.com/AUMAG/mag-cyl-field/blob/main/mag-cyl-field-Forbes-manuscript-2024.pdf) of the manuscript is provided in this repository.
 
@@ -23,6 +23,9 @@ If you use this work, please cite the paper using the following reference:
         title = {The Magnetic Field from Cylindrical Arc Coils and Magnets: {A} Compendium with New Analytic Solutions for Radial Magnetisation and Azimuthal Current},
         doi = {10.1002/apxr.202300136},
         publisher = {Wiley},
+        number = {7},
+        pages = {2300136},
+        volume = {3},
     }
 
 
@@ -32,9 +35,13 @@ While the typeset version of the paper presents the derivations and final soluti
 these are likely to be more accessible for re-use in the following Mathematica documents:
 
 * [Nomenclature.wl](https://github.com/AUMAG/mag-cyl-field/blob/main/Nomenclature.wl)
-* [Analytic solutions with numeric comparison.nb](https://github.com/AUMAG/mag-cyl-field/blob/main/Analytic%20solutions%20with%20numeric%20comparison.nb)
+* [Analytic solutions with numeric comparison.nb](https://github.com/AUMAG/mag-cyl-field/blob/3a05ef040823f40db63472190d9eeee88372eede/original-supporting-information/Analytic%20solutions%20and%20numeric%20comparison.nb)
 
 There is a typeset PDF version of the latter notebook, but please note that the code is truncated at the page edge so it is intended purely for illustrative purposes.
 
 The original supplementary material was updated to include geometry and field visualisations, following an invitation to share the Mathematica notebook on the Wolfram community (https://community.wolfram.com/groups/-/m/t/3222778):  
 * [The Magnetic Field from Cylindrical Arc Coils and Magnets.nb](https://github.com/matt4bs/mag-cyl-field/blob/56f40633b3a6f32cd2976991ed63f2b000e11b34/The%20Magnetic%20Field%20from%20Cylindrical%20Arc%20Coils%20and%20Magnets.nb)
+
+The authors extended the work herein to calculate the force and torque between collections of cylindrical arc coils and magnets. A simple package containly only the analytic magnetic field functions from this research output can be found:
+* [MagCylField.wl](https://github.com/AUMAG/mag-cyl-field/blob/3a05ef040823f40db63472190d9eeee88372eede/MagCylField-package/MagCylField.wl)
+* [MagCylField example.nb](https://github.com/AUMAG/mag-cyl-field/blob/3a05ef040823f40db63472190d9eeee88372eede/MagCylField-package/MagCylField%20example.nb)
