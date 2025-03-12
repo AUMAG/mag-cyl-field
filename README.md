@@ -3,6 +3,8 @@ This page features a Mathematica notebook that is supplementary material for the
  
 Basic wrapper functions for the analytic solutions are provided to tabulate results at specific field points, along with a sanity check comparison to the original numeric integral. All tabulated results were compared to an FEA model within the research article. Reviewers of the research article were interested in a basic computational benchmark of the analytic solution results compared to the numerical integral solution and FEA. Partial code to this effect is included. Further to the tables, some example plots are provided to visualise: the geometry; the location of the chosen field points; the magnitude and direction of the field passing through the geometry.
 
+An extension of this work can be found in the [mag-gmst-force](https://github.com/AUMAG/mag-gmst-force) repository.
+
 <img style="background-color:white;" src=https://github.com/AUMAG/mag-cyl-field/blob/main/doc/graphical-abstract.svg />
 
 ## Manuscript
