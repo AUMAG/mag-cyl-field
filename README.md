@@ -9,7 +9,7 @@ An extension of this work can be found in the [mag-gmst-force](https://github.co
 
 ## Manuscript
 
-This repository contains the [preprint manuscript](https://github.com/AUMAG/mag-cyl-field/blob/main/mag-cyl-field-Forbes-manuscript-2024.pdf) and the results of the derivations presented in the following paper ([10.1002/apxr.202300136](https://doi.org/10.1002/apxr.202300136)):
+This repository contains the results of the derivations presented in the following paper ([10.1002/apxr.202300136](https://doi.org/10.1002/apxr.202300136), [preprint](https://github.com/AUMAG/mag-cyl-field/blob/main/mag-cyl-field-Forbes-manuscript-2024.pdf)):
 
 > M. Forbes, W.S.P Robertson, A.C. Zander, J.J.H. Paulides (2024) "The Magnetic Field from Cylindrical Arc Coils and Magnets: A Compendium with New Analytic Solutions for Radial Magnetisation and Azimuthal Current" *Advanced Physics Research* vol. 3, no. 7, p. 2300136.
 
